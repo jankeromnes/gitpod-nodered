@@ -3,3 +3,7 @@ image:
 
 tasks:
   - command: node-red
+
+vscode:
+  extensions:
+    - formulahendry.vscode-node-red@0.0.2:pfZghwwOm+2WovfpjWiCGw==
