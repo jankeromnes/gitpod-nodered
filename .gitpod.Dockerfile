@@ -1,3 +1,3 @@
 FROM gitpod/workspace-full
 
-RUN bash -lc "sudo npm install -g --unsafe-perm node-red"
+RUN npm install --global --unsafe-perm node-red
